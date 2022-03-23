@@ -5,7 +5,7 @@ https://github.com/lmenezes/cerebro
 cerebro-m1
 --------------
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/lmenezes/cerebro.svg)](https://hub.docker.com/r/lmenezes/cerebro)
+[![Docker Pulls](https://img.shields.io/docker/pulls/tomthecat/cerebro-m1.svg)](https://hub.docker.com/r/tomthecat/cerebro-m1)
 
 Images are periodically uploaded in [tomthecat/cerebro-m1](https://hub.docker.com/r/tomthecat/cerebro-m1/) docker hub repo.
 

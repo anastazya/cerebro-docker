@@ -14,13 +14,7 @@ Images are periodically uploaded in [tomthecat/cerebro-m1](https://hub.docker.co
 For using latest cerebro-m1 execute:
 
 ```
-docker run -p 9000:9000 tomthecat/cerebro-m1
-```
-
-For using a specific version run:
-
-```
-docker run -p 9000:9000 tomthecat/cerebro-m1:0.1a 
+docker run -p 9000:9000 tomthecat/cerebro-m1:0.1a <= This is the only version as 23-03-2023
 ```
 
 ### Configuration

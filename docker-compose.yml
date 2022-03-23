@@ -1,0 +1,13 @@
+version: '3'
+services:
+
+########################### Assets ############################
+
+  # Cerebro
+  cerebro-m1:
+    image: "tomthecat/cerebro-m1:0.1a"
+    build:
+      context: .
+      dockerfile: "cerebro"      
+
+################################################################

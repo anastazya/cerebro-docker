@@ -28,3 +28,5 @@ docker run -e CEREBRO_PORT=8080 -p 8080:8080 tomthecat/cerebro-m1
 To access an elasticsearch instance running on localhost:
 
 docker run -p 9000:9000 --network=host tomthecat/cerebro-m1
+
+docker run -ti --rm -p 9000:9000 tomthecat/cerebro-m1:0.1a
